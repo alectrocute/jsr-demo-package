@@ -1,8 +1,8 @@
 {
   "name": "@alectrocute/jsr-demo-package",
-  "version": "0.1.0",
-  "exports": "./main.ts",
+  "version": "0.1.1",
+  "exports": "./mod.ts",
   "tasks": {
-    "dev": "deno run --watch ./main.ts"
+    "dev": "deno run --watch ./mod.ts"
   }
 }
